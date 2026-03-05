@@ -6,8 +6,8 @@ https://github.com/user-attachments/assets/28937f75-06f5-4f17-ab1e-a1c32c4a9fab
 Для работы приложения вам понадобится установленный [Node.js](https://nodejs.org) | Версия на которой работал проект v24.13.0.
 1. **Склонируйте репозиторий или скачайте архив с кодом.**
 2. **Откройте терминал** в папке проекта.
-2.1 **В VS.CODE - CTRL+SHIFT+`**
-2.2 **cd "Ваш путь" | Допустим D:\Desktop\online-store**
-4. **Установите все необходимые зависимости (node_modules):**
+3. **В VS.CODE - CTRL+SHIFT+`**
+4. **cd "Ваш путь" | Допустим D:\Desktop\online-store**
+5. **Установите все необходимые зависимости (node_modules):**
    ```bash
    npm install
